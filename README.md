@@ -1,11 +1,14 @@
 # TastyMotionTracker
 TastyMotionTracker-SlimeVR PCB SMT Project
 
-- Very smallest
+- Very tiny size
 - Using BMI160 6-DoF IMU
 - I2C port for additional IMU
 - CH340E UART-USB Interface
 - Charging Li-Po Battery support
+
+![pcb1](./images/pcb2.PNG)
+![sample1](./images/sample1.jpg)
 
 ## License
 **This hardware is licensed under the CERN-OHL-P v2 license**, which is a permissive,
