@@ -1,0 +1,6 @@
+pcb/TastyMotionTracker-PCB/fp-info-cache
+pcb/TastyMotionTracker-PCB/*.bat
+pcb/TastyMotionTracker-PCB/*-backups
+pcb/TastyMotionTracker-PCB/*.step
+pcb/TastyMotionTracker-PCB/*.wrl
+pcb/TastyMotionTracker-PCB/fab
